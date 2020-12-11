@@ -1,5 +1,6 @@
 # PHP_Piscine_Basics
 
+For day 01 of the Piscine, we practiced the PHP on a basic level by making small programs and functions. Here is an explanation of what each of my exercise submissions does. :)
 
 ## Ex00 : HW
 A small program, quite simple, that greets the world with a famous message.
